@@ -1,0 +1,32 @@
+/*
+ideas: 
+towel dispenser?
+joseph's medicine dispencer bottle & award system prototype
+*/
+
+#towel dispenser
+public static void main[args]{
+  if(movement.equals(true)){
+   papertowelout()
+   #code that initiates papertowel motor for some time
+   if(button.equals(true)){
+    papertowelstop()
+    #code that stops papertowel motor when button is pushed (blade is pressed)
+    }
+  }
+}
+
+#medicine dispencer bottle
+*/
+a code that includes a:
+  1. code for bottle functions(timer, medicine dispense?)
+  2. point& reward system (stored personal account online?) 
+  3. website & mobile application for accessibility
+  
+website functions? 
+1. parent and child possibly doctor/pharmicist make accounts and connect online
+2. The parent and child chooses prize and reward date
+3. all these people can have immediate acces to these people
+bottle functions:
+1. 
+/*
